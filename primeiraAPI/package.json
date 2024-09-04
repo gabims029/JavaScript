@@ -1,5 +1,5 @@
 {
-  "name": "primeiraapi",
+  "name": "api_url_base",
   "version": "1.0.0",
   "description": "Estudo sobre API",
   "main": "index.js",
